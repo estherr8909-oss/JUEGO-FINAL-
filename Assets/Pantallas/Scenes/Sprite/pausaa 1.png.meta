@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 0bcbbe2e146845b44925f71b910cff46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3168780109341421380
+    second: pausaa 1_0
+  - first:
+      213: 4710850897740838353
+    second: pausaa 1_1
+  - first:
+      213: -5249286952666743664
+    second: pausaa 1_2
+  - first:
+      213: -4202841005224178628
+    second: pausaa 1_3
+  - first:
+      213: 7760179395797903773
+    second: pausaa 1_4
+  - first:
+      213: 4715109948854975183
+    second: pausaa 1_5
+  - first:
+      213: 7211479168304469934
+    second: pausaa 1_6
+  - first:
+      213: -3329288292014931958
+    second: pausaa 1_7
+  - first:
+      213: 4519664946211161554
+    second: pausaa 1_8
+  - first:
+      213: -7904708102805201295
+    second: pausaa 1_9
+  - first:
+      213: 3079041761515326489
+    second: pausaa 1_10
+  - first:
+      213: 5635408095355166767
+    second: pausaa 1_11
+  - first:
+      213: -3504631532952796018
+    second: pausaa 1_12
+  - first:
+      213: -1961522157277283463
+    second: pausaa 1_13
+  - first:
+      213: -1361433025010372550
+    second: pausaa 1_14
+  - first:
+      213: -6691809806680817451
+    second: pausaa 1_15
+  - first:
+      213: -2485137297955541229
+    second: pausaa 1_16
+  - first:
+      213: -9175528880731805063
+    second: pausaa 1_17
+  - first:
+      213: -2781096717960858926
+    second: pausaa 1_18
+  - first:
+      213: 5296909607701632733
+    second: pausaa 1_19
+  - first:
+      213: 3436375139640838388
+    second: pausaa 1_20
+  - first:
+      213: 5688536763184865385
+    second: pausaa 1_21
+  - first:
+      213: -2894308605971775131
+    second: pausaa 1_22
+  - first:
+      213: 5990641418129094838
+    second: pausaa 1_23
+  - first:
+      213: 6144109615215305763
+    second: pausaa 1_24
+  - first:
+      213: 4933209063625448265
+    second: pausaa 1_25
+  - first:
+      213: 1012412581575537269
+    second: pausaa 1_26
+  - first:
+      213: 7899462461108953125
+    second: pausaa 1_27
+  - first:
+      213: 740209594660024416
+    second: pausaa 1_28
+  - first:
+      213: 3973784941461567757
+    second: pausaa 1_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pausaa 1_0
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 780
+        width: 652
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0916b874b3604d0800000000000000
+      internalID: -3168780109341421380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 495
+        width: 572
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d53cadaeed406140800000000000000
+      internalID: 4710850897740838353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_2
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 535
+        width: 236
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cb4361459c627b0800000000000000
+      internalID: -5249286952666743664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 356
+        width: 569
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cca249f528ca5c0800000000000000
+      internalID: -4202841005224178628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_4
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 315
+        width: 236
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99e6d79b02b1bb60800000000000000
+      internalID: 7760179395797903773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 219
+        width: 569
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca396a448f6f6140800000000000000
+      internalID: 4715109948854975183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 70
+        width: 422
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7dae37812541460800000000000000
+      internalID: 7211479168304469934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 70
+        width: 414
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00459f00fdfbc1d0800000000000000
+      internalID: -3329288292014931958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_8
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 69
+        width: 418
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d583b6825319be30800000000000000
+      internalID: 4519664946211161554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_9
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 36
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ed4278cd5dc4290800000000000000
+      internalID: -7904708102805201295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 35
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cc6bb2b24faba20800000000000000
+      internalID: 3079041761515326489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 36
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2061081ecdf43e40800000000000000
+      internalID: 5635408095355166767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 35
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8447b9603c0d5fc0800000000000000
+      internalID: -3504631532952796018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 35
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bfd649df547c4e0800000000000000
+      internalID: -1961522157277283463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 35
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3075ce70e73b1de0800000000000000
+      internalID: -1361433025010372550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_15
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 37
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d080508f6ae123a0800000000000000
+      internalID: -6691809806680817451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_16
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 37
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f29495bc4038dd0800000000000000
+      internalID: -2485137297955541229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_17
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 37
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97aa4a5d819f9a080800000000000000
+      internalID: -9175528880731805063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_18
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 37
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d230f7154f8769d0800000000000000
+      internalID: -2781096717960858926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 37
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6d8665937628940800000000000000
+      internalID: 5296909607701632733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_20
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 35
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f886499bf470bf20800000000000000
+      internalID: 3436375139640838388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_21
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 34
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96062650c0eb1fe40800000000000000
+      internalID: 5688536763184865385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_22
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 34
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56142b658a955d7d0800000000000000
+      internalID: -2894308605971775131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_23
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8b35841a8032350800000000000000
+      internalID: 5990641418129094838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_24
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 35
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32468f36423444550800000000000000
+      internalID: 6144109615215305763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_25
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 34
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bd1209187467440800000000000000
+      internalID: 4933209063625448265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_26
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 35
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57232f201efcc0e00800000000000000
+      internalID: 1012412581575537269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_27
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 34
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520aee6514780ad60800000000000000
+      internalID: 7899462461108953125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_28
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 34
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060fb0d54b0c54a00800000000000000
+      internalID: 740209594660024416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pausaa 1_29
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 34
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09fc99a958b52730800000000000000
+      internalID: 3973784941461567757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pausaa 1_0: -3168780109341421380
+      pausaa 1_1: 4710850897740838353
+      pausaa 1_10: 3079041761515326489
+      pausaa 1_11: 5635408095355166767
+      pausaa 1_12: -3504631532952796018
+      pausaa 1_13: -1961522157277283463
+      pausaa 1_14: -1361433025010372550
+      pausaa 1_15: -6691809806680817451
+      pausaa 1_16: -2485137297955541229
+      pausaa 1_17: -9175528880731805063
+      pausaa 1_18: -2781096717960858926
+      pausaa 1_19: 5296909607701632733
+      pausaa 1_2: -5249286952666743664
+      pausaa 1_20: 3436375139640838388
+      pausaa 1_21: 5688536763184865385
+      pausaa 1_22: -2894308605971775131
+      pausaa 1_23: 5990641418129094838
+      pausaa 1_24: 6144109615215305763
+      pausaa 1_25: 4933209063625448265
+      pausaa 1_26: 1012412581575537269
+      pausaa 1_27: 7899462461108953125
+      pausaa 1_28: 740209594660024416
+      pausaa 1_29: 3973784941461567757
+      pausaa 1_3: -4202841005224178628
+      pausaa 1_4: 7760179395797903773
+      pausaa 1_5: 4715109948854975183
+      pausaa 1_6: 7211479168304469934
+      pausaa 1_7: -3329288292014931958
+      pausaa 1_8: 4519664946211161554
+      pausaa 1_9: -7904708102805201295
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

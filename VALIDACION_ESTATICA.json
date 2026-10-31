@@ -1,0 +1,129 @@
+{
+  "csharp_syntax_errors": [],
+  "csharp_script_count": 49,
+  "duplicate_monobehaviour_classes": {},
+  "duplicate_asset_guids": {},
+  "missing_asset_metadata": [],
+  "new_scene_dependency_count": 29,
+  "new_scene_unknown_external_guids": [],
+  "resolved_package_guids": {
+    "01614664b831546d2ae94a42149d80ac": "com.unity.inputsystem@21a28c3a6c83/InputSystem/Plugins/UI/InputSystemUIInputModule.cs",
+    "0cd44c1031e13a943bb63640046fad76": "com.unity.ugui@d8a2716f3013/Runtime/UGUI/UI/Core/Layout/CanvasScaler.cs",
+    "207ee8102dd4143d288186ef0be518ee": "com.unity.2d.sprite@929df5adbb1f/Editor/ObjectMenuCreation/DefaultAssets/Textures/v2/Capsule.png",
+    "311925a002f4447b3a28927169b83ea6": "com.unity.2d.sprite@929df5adbb1f/Editor/ObjectMenuCreation/DefaultAssets/Textures/v2/Square.png",
+    "4e29b1a8efbd4b44bb3f3716e73f07ff": "com.unity.ugui@d8a2716f3013/Runtime/UGUI/UI/Core/Button.cs",
+    "4f231c4fb786f3946a6b90b886c48677": "com.unity.ugui@d8a2716f3013/Runtime/UGUI/EventSystem/InputModules/StandaloneInputModule.cs",
+    "71c1514a6bd24e1e882cebbe1904ce04": "com.unity.ugui@d8a2716f3013/Runtime/TMP/TMP_FontAsset.cs",
+    "76c392e42b5098c458856cdf6ecaaaa1": "com.unity.ugui@d8a2716f3013/Runtime/UGUI/EventSystem/EventSystem.cs",
+    "a79441f348de89743a2939f4d699eac1": "com.unity.render-pipelines.universal@1ad96352dab8/Runtime/UniversalAdditionalCameraData.cs",
+    "a97c105638bdf8b4a8650670310a4cd3": "com.unity.render-pipelines.universal@1ad96352dab8/Runtime/Materials/Sprite-Lit-Default.mat",
+    "ca9f5fa95ffab41fb9a615ab714db018": "com.unity.inputsystem@21a28c3a6c83/InputSystem/Plugins/PlayerInput/DefaultInputActions.inputactions",
+    "dc42784cf147c0c48a680349fa168899": "com.unity.ugui@d8a2716f3013/Runtime/UGUI/UI/Core/GraphicRaycaster.cs",
+    "f4688fdb7df04437aeb418b961361dc5": "com.unity.ugui@d8a2716f3013/Runtime/TMP/TextMeshProUGUI.cs",
+    "fe87c0e1cc204ed48ad3b37840f39efc": "com.unity.ugui@d8a2716f3013/Runtime/UGUI/UI/Core/Image.cs"
+  },
+  "duplicate_scene_fileids": [],
+  "missing_scene_local_references": [],
+  "scene_yaml_document_count": 258,
+  "unity_events": [
+    {
+      "target": "624964743",
+      "type": "Nivel3Esther.Piedra3, Assembly-CSharp",
+      "method": "SeleccionarOpcionC",
+      "resolved": true
+    },
+    {
+      "target": "2038675961",
+      "type": "Nivel3Esther.CerrarPanelExplicacion, Assembly-CSharp",
+      "method": "Cerrar",
+      "resolved": true
+    },
+    {
+      "target": "71218373",
+      "type": "Nivel3Esther.Piedra, Assembly-CSharp",
+      "method": "SeleccionarOpcionC",
+      "resolved": true
+    },
+    {
+      "target": "71218373",
+      "type": "Nivel3Esther.Piedra, Assembly-CSharp",
+      "method": "SeleccionarOpcionA",
+      "resolved": true
+    },
+    {
+      "target": "624964743",
+      "type": "Nivel3Esther.Piedra3, Assembly-CSharp",
+      "method": "SeleccionarOpcionB",
+      "resolved": true
+    },
+    {
+      "target": "624964743",
+      "type": "Nivel3Esther.Piedra3, Assembly-CSharp",
+      "method": "SeleccionarOpcionA",
+      "resolved": true
+    },
+    {
+      "target": "859491984",
+      "type": "Nivel3Esther.piedra2, Assembly-CSharp",
+      "method": "SeleccionarOpcionB",
+      "resolved": true
+    },
+    {
+      "target": "859491984",
+      "type": "Nivel3Esther.piedra2, Assembly-CSharp",
+      "method": "SeleccionarOpcionA",
+      "resolved": true
+    },
+    {
+      "target": "859491984",
+      "type": "Nivel3Esther.piedra2, Assembly-CSharp",
+      "method": "SeleccionarOpcionC",
+      "resolved": true
+    },
+    {
+      "target": "71218373",
+      "type": "Nivel3Esther.Piedra, Assembly-CSharp",
+      "method": "SeleccionarOpcionB",
+      "resolved": true
+    }
+  ],
+  "changed_original_files": [
+    ".gitignore",
+    "ProjectSettings/EditorBuildSettings.asset"
+  ],
+  "removed_original_files": [
+    "Assets/Pantallas/Scenes/Nivel4.unity",
+    "Assets/Pantallas/Scenes/Nivel4.unity.meta",
+    "Assets/Pantallas/Scenes/codigos del juego/botones pregunta.cs",
+    "Assets/Pantallas/Scenes/codigos del juego/botones pregunta.cs.meta",
+    "Assets/Pantallas/Scenes/codigos del juego/CONTROLADORPROGRESO.cs",
+    "Assets/Pantallas/Scenes/codigos del juego/CONTROLADORPROGRESO.cs.meta",
+    "Assets/Pantallas/Scenes/codigos del juego/Mapa.cs",
+    "Assets/Pantallas/Scenes/codigos del juego/Mapa.cs.meta",
+    "Assets/Pantallas/Scenes/codigos del juego/piedra1.cs",
+    "Assets/Pantallas/Scenes/codigos del juego/piedra1.cs.meta",
+    "Assets/Pantallas/Scenes/codigos del juego/piedra2.cs",
+    "Assets/Pantallas/Scenes/codigos del juego/piedra2.cs.meta",
+    "Assets/Pantallas/Scenes/codigos del juego/piedra3.cs",
+    "Assets/Pantallas/Scenes/codigos del juego/piedra3.cs.meta",
+    "Assets/Pantallas/Scenes/codigos del juego/Transicion.cs",
+    "Assets/Pantallas/Scenes/codigos del juego/Transicion.cs.meta",
+    "Assets/Pantallas/Scenes/Sprite/bloque.png",
+    "Assets/Pantallas/Scenes/Sprite/bloque.png.meta",
+    "Assets/Pantallas/Scenes/Sprite/fondo.jpeg",
+    "Assets/Pantallas/Scenes/Sprite/fondo.jpeg.meta"
+  ],
+  "preserved_scene_sha256": {
+    "Menu": "e7ba0c3b0fdb5c7dbdf8cef8c02056df584eec692595442db2369f496784f48e",
+    "Mapa": "29eb68934574565c8b3bf231d9e185163cda41fee2fb462ad8279f7dcfd29167",
+    "Nivel 1": "b99f249f82bafd130cc21a9865ed7d17021fca78a3886438f7a1d4256f47b82b",
+    "Nivel 2": "9204a92da4e6292b1921a72c968e2375b2e2899cf2702b71b214bcd36e20fd47",
+    "creditos": "6dc515055122657d89c8bb2f37b03652a0fc5c9a7f7406ca02f8090c25c60554",
+    "gameover": "4d6d06c7810bf321557cfa686a8dd6a3550140bb7457c9e89ac722ad678bd5b2"
+  },
+  "main_unity_version_preserved": true,
+  "main_packages_preserved": true,
+  "static_validation_errors": [],
+  "unity_editor_compile_test_performed": false,
+  "gameplay_test_performed": false
+}
